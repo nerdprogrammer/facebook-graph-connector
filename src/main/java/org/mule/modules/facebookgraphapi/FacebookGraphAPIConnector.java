@@ -32,7 +32,7 @@ public abstract class FacebookGraphAPIConnector {
      * Greeting message
      */
     @Configurable
-    @Default("Hello")
+    @Default("HI")
     private String greeting;
 
     @ConnectionStrategy
