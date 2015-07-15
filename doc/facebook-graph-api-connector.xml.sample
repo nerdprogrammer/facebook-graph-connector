@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(facebook-graph-api:greet) -->
+    <facebook-graph-api:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(facebook-graph-api:greet) -->
